@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "D:\\Projects\\Laravel\\BookTrading\\database\\database.sqlite",
+            "dialect": "SQLite",
+            "name": "database"
+        },
+        {
+            "database": "D:\\Projects\\Laravel\\BookTrading\\database\\database.sqlite",
+            "dialect": "SQLite",
+            "name": "database"
+        }
+    ]
+}
