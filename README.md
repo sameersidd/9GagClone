@@ -15,6 +15,10 @@
 
 <code>composer update</code>
 
+Create a db and register the db with the config file
+
+<code>php artisan migrate</code>
+
 # To Do
 
 - Testing 
